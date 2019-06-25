@@ -44,7 +44,7 @@ export default function SimpleCard() {
         </Typography>
         <Typography variant="body2" component="p">Valor unidade: R$ 4,00</Typography>
         <Typography variant="body2" component="p">Combo de 3 rifas: R$ 10,00</Typography>
-        <Typography variant="body2" component="p">Data do sorteio: 20/07/2019</Typography>
+        <Typography variant="body2" component="p">Data do sorteio: 01 de Agosto de 2019</Typography>
       </CardContent>
     </Card>
   );
