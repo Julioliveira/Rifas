@@ -69,7 +69,7 @@ function SwipeableTextMobileStepper() {
   return (
     <div className={classes.root}>
       <Paper square elevation={0} className={classes.header}>
-        <Typography>UNO - embalagem exclusiva Amazon</Typography>
+        <Typography>DOS - embalagem exclusiva Amazon</Typography>
       </Paper>
       <AutoPlaySwipeableViews
         axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'}
