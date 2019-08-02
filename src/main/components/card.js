@@ -40,11 +40,12 @@ export default function SimpleCard() {
           Descrição
         </Typography>
         <Typography variant="body2" component="p">
-            O prêmio da rifa será o jogo DOS, com embalagem de alumínio exclusiva do site da Amazon.
+          O prêmio da rifa será o jogo DOS, com embalagem de alumínio exclusiva do site da Amazon.
         </Typography>
         <Typography variant="body2" component="p">Valor unidade: R$ 4,00</Typography>
         <Typography variant="body2" component="p">Combo de 3 rifas: R$ 10,00</Typography>
         <Typography variant="body2" component="p">Data do sorteio: 01 de Agosto de 2019</Typography>
+        <Typography variant="body2" component="p">Número sorteado: 21</Typography>
       </CardContent>
     </Card>
   );
